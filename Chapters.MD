@@ -10,7 +10,7 @@
 <li>What kind of software developer are you?</li>
 <li>Not all companies are equal</li>
 <li>Climbing the corporate ladder</li>
-<li>Being a professional</li>
+  <li ><span color="red">Being a professional</span>~~~~<span>@DanielNoaein</span></li>
 <li>Freedom: How to quit your job</li>
 <li>Freelancing: Going out on your own</li>
 <li>Creating your first product</li>
