@@ -19,15 +19,15 @@
 <li>Fake it till you make it</li>
 <li>Resumes are BORING—Let's fix that</li>
 <li>Don't get religious about technology</li>
-<b>SECTION 2: MARKETING YOURSELF</b>
-<li>Marketing basics for code monkeys</li>
-<li>Building a brand that gets you noticed</li>
-<li>Creating a wildly successful blog</li>
-<li>Your primary goal: Add value to others</li>
-<li>#UsingSocialNetworks</li>
-<li>Speaking, presenting, and training: Speak geek</li>
-<li>Writing books and articles that attract a following</li>
-<li>Don't be afraid to look like an idiot</li>
+<b><span color="red">SECTION 2: MARKETING YOURSELF</span>~~~~<span>@Elham</span></b>
+<li><span color="red">Marketing basics for code monkeys</span>~~~~<span>@Elham</span></li>
+<li><span color="red">Building a brand that gets you noticed</span>~~~~<span>@Elham</span></li>
+<li><span color="red">Creating a wildly successful blog</span>~~~~<span>@Elham</span></li>
+<li><span color="red">Your primary goal: Add value to others</span>~~~~<span>@Elham</span></li>
+<li><span color="red">#UsingSocialNetworks</span>~~~~<span>@Elham</span></li>
+<li><span color="red">Speaking, presenting, and training: Speak geek</span>~~~~<span>@Elham</span></li>
+<li><span color="red">Writing books and articles that attract a following</span>~~~~<span>@Elham</span></li>
+<li><span color="red">Don't be afraid to look like an idiot</span>~~~~<span>@Elham</span></li>
 <b><span color="red">SECTION 3: LEARNING</span>~~~~<span>@NazliEb</span></b>
 <li><span color="red">Learning how to learn: How to teach yourself</span>~~~~<span>@NazliEb</span></li>
 <li><span color="red">My 10-step process</span>~~~~<span>@NazliEb</span></li>
