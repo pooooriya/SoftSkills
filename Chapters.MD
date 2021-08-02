@@ -28,16 +28,16 @@
 <li>Speaking, presenting, and training: Speak geek</li>
 <li>Writing books and articles that attract a following</li>
 <li>Don't be afraid to look like an idiot</li>
-<b>SECTION 3: LEARNING</b>
-<li>Learning how to learn: How to teach yourself</li>
-<li>My 10-step process</li>
-<li>Steps 1-6: Do these once</li>
-<li>Steps 7-10: Repeat these</li>
-<li>Looking for mentors: Finding your Yoda</li>
-<li>Taking on an apprentice: Being Yoda</li>
-<li>Teaching: Learn you want? Teach you must.</li>
-<li>Do you need a degree or can you "wing it?"</li>
-<li>Finding gaps in your knowledge</li>
+<b><span color="red">SECTION 3: LEARNING</span>~~~~<span>@NazliEb</span></b>
+<li><span color="red">Learning how to learn: How to teach yourself</span>~~~~<span>@NazliEb</span></li>
+<li><span color="red">My 10-step process</span>~~~~<span>@NazliEb</span></li>
+<li><span color="red">Steps 1-6: Do these once</span>~~~~<span>@NazliEb</span></li>
+<li><span color="red">Steps 7-10: Repeat these</span>~~~~<span>@NazliEb</span></li>
+<li><span color="red">Looking for mentors: Finding your Yoda</span>~~~~<span>@NazliEb</span></li>
+<li><span color="red">Taking on an apprentice: Being Yoda</span>~~~~<span>@NazliEb</span></li>
+<li><span color="red">Teaching: Learn you want? Teach you must.</span>~~~~<span>@NazliEb</span></li>
+<li><span color="red">Do you need a degree or can you "wing it?"</span>~~~~<span>@NazliEb</span></li>
+<li><span color="red">Finding gaps in your knowledge</span>~~~~<span>@NazliEb</span></li>
 <b>SECTION 4: PRODUCTIVITY</b>
 <li>It all starts with focus</li>
 <li>My personal productivity plan</li>
