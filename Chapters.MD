@@ -60,16 +60,16 @@
 <li>Do you really understand your retirement plan?</li>
 <li>The danger of debt: SSDs are expensive</li>
 <li>Bonus: How I retired at 33</li>
-<b>SECTION 6: FITNESS</b>
-<li>Why you need to hack your health</li>
-<li>Setting your fitness criteria</li>
-<li>Thermodynamics, calories, and you</li>
-<li>Motivation: Getting your butt out of the chair</li>
-<li>How to gain muscle: Nerds can have bulging biceps</li>
-<li>How to get hash-table abs</li>
-<li>Starting RunningProgram.exe</li>
-<li>Standing desks and other hacks</li>
-<li>Tech gear for fitness: Geeking out</li>
+<b><span color="red">SECTION 6: FITNESS</span>~~~~<span>@fatemeh_karimi</span></b>
+<li><span color="red">Why you need to hack your health</span>~~~~<span@fatemeh_karimi</span></li>
+<li><span color="red">Setting your fitness criteria</span>~~~~<span@fatemeh_karimi</span></li>
+<li><span color="red">Thermodynamics, calories, and you</span>~~~~<span@fatemeh_karimi</span></li>
+<li><span color="red">Motivation: Getting your butt out of the chair</span>~~~~<span@fatemeh_karimi</span></li>
+<li><span color="red">How to gain muscle: Nerds can have bulging biceps</span>~~~~<span@fatemeh_karimi</span></li>
+<li><span color="red">How to get hash-table abs</span>~~~~<span@fatemeh_karimi</span></li>
+<li><span color="red">Starting RunningProgram.exe</span>~~~~<span@fatemeh_karimi</span></li>
+<li><span color="red">Standing desks and other hacks</span>~~~~<span@fatemeh_karimi</span></li>
+<li><span color="red">Tech gear for fitness: Geeking out</span>~~~~<span@fatemeh_karimi</span></li>
   <b>SECTION 7: SPIRIT</b>
 <li>How the mind influences the body</li>
 <li>Having the right mental attitude: Rebooting</li>
