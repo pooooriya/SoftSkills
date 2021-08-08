@@ -38,28 +38,28 @@
 <li><span color="red">Teaching: Learn you want? Teach you must.</span>~~~~<span>@NazliEb</span></li>
 <li><span color="red">Do you need a degree or can you "wing it?"</span>~~~~<span>@NazliEb</span></li>
 <li><span color="red">Finding gaps in your knowledge</span>~~~~<span>@NazliEb</span></li>
-<b>SECTION 4: PRODUCTIVITY</b>
-<li>It all starts with focus</li>
-<li>My personal productivity plan</li>
-<li>Pomodoro Technique</li>
-<li>My quota system: How I get way more done than I should</li>
-<li>Holding yourself accountable</li>
-<li>Multitasking dos and don'ts</li>
-<li>Burnout: I've got the cure!</li>
-<li>How you're wasting your time</li>
-<li>The importance of having a routine</li>
-<li>Developing habits: Brushing your code</li>
-<li>Breaking things down: How to eat an elephant</li>
-<li>The value of hard work and why you keep avoiding it</li>
-<li>Any action is better than no action</li>
-  <b>SECTION 5: FINANCIAL</b>
-<li>What are you going to do with your paycheck?</li>
-<li>How to negotiate your salary</li>
-<li>Options: Where all the fun is</li>
-<li>Bits and bytes of real estate investing</li>
-<li>Do you really understand your retirement plan?</li>
-<li>The danger of debt: SSDs are expensive</li>
-<li>Bonus: How I retired at 33</li>
+<b><span color="red">SECTION 4: PRODUCTIVITY</span>~~~~<span>@mohammad_khodaeemehr</span></b>
+<li><span color="red">It all starts with focus</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">My personal productivity plan</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Pomodoro Technique</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">My quota system: How I get way more done than I should</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Holding yourself accountable</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Multitasking dos and don'ts</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Burnout: I've got the cure!</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">How you're wasting your time</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">The importance of having a routine</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Developing habits: Brushing your code</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Breaking things down: How to eat an elephant</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">The value of hard work and why you keep avoiding it</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Any action is better than no action</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<b><span color="red">SECTION 5: FINANCIAL</span>~~~~<span>@mohammad_khodaeemehr</span></b>
+<li><span color="red">What are you going to do with your paycheck?</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">How to negotiate your salary</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Options: Where all the fun is</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Bits and bytes of real estate investing</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Do you really understand your retirement plan?</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">The danger of debt: SSDs are expensive</span>~~~~<span>@mohammad_khodaeemehr</span></li>
+<li><span color="red">Bonus: How I retired at 33</span>~~~~<span>@mohammad_khodaeemehr</span></li>
 <b><span color="red">SECTION 6: FITNESS</span>~~~~<span>@fatemeh_karimi</span></b>
 <li><span color="red">Why you need to hack your health</span>~~~~<span@fatemeh_karimi</span></li>
 <li><span color="red">Setting your fitness criteria</span>~~~~<span@fatemeh_karimi</span></li>
