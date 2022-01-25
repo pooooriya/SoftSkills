@@ -11,14 +11,14 @@
 <li>Not all companies are equal</li>
 <li>Climbing the corporate ladder</li>
   <li ><span color="red">Being a professional</span>~~~~<span>@DanielNoaein</span></li>
-<li>Freedom: How to quit your job</li>
-<li>Freelancing: Going out on your own</li>
-<li>Creating your first product</li>
-<li>Do you want to start a startup?</li>
-<li>Working remotely survival strategies</li>
-<li>Fake it till you make it</li>
-<li>Resumes are BORING—Let's fix that</li>
-<li>Don't get religious about technology</li>
+<li>Freedom: How to quit your job~~~~<span>xibalbas</span></li>
+<li>Freelancing: Going out on your own~~~~<span>xibalbas</span></li>
+<li>Creating your first product~~~~<span>xibalbas</span></li>
+<li>Do you want to start a startup?~~~~<span>xibalbas</span></li>
+<li>Working remotely survival strategies~~~~<span>/xibalbas</span></li>
+<li>Fake it till you make it~~~~<span>xibalbas</span></li>
+<li>Resumes are BORING—Let's fix that~~~~<span>xibalbas</span></li>
+<li>Don't get religious about technology~~~~<span>xibalbas</span></li>
 <b><span color="red">SECTION 2: MARKETING YOURSELF</span>~~~~<span>@Elham</span></b>
 <li><span color="red">Marketing basics for code monkeys</span>~~~~<span>@Elham</span></li>
 <li><span color="red">Building a brand that gets you noticed</span>~~~~<span>@Elham</span></li>
